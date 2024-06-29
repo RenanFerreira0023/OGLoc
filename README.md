@@ -8,7 +8,7 @@ Projeto ESPANCADOR MT5
 ~~ precisa instalar o XAMPP
 
 ~~ Após instalar o xampp e add a pasta dentro da /htdocs/ , deve-se rodar 
-~~ 'http://localhost/EspancadorMT5/api.php/criar_ambiente/' 
+   http://localhost/EspancadorMT5/api.php/criar_ambiente/
      para criar o banco de dados.
 	 
 ~~ 	 video no youtube ensinando a instalar e a usar
